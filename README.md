@@ -7,7 +7,7 @@
 💻 &nbsp;I am also a Director of a [MediaVamp](www.mediavamp.co.uk).\
 🎓 &nbsp;I Graduated Lancaster University with a First in Software Engineering BSc.\
 ✉️ &nbsp;You can shoot me an email at alexstout009hotmail.com I'll try to respond as soon as I can.\
-🎮 &nbs:p;In my free time, I Enjoy gaming and building Lego.\
+🎮 &nbsp;In my free time, I Enjoy gaming, building Lego and random software projects.\
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -41,3 +41,13 @@
 </a>
 
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/alexander-stout-73b94b168/"><img src="https://img.shields.io/badge/-Alex%20Stout-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alexstout009@hotmail.com"><img src="https://img.shields.io/badge/-alexstout009@hotmail.com-D14836?style=flat&logo=Email&logoColor=white"/></a>
+<a href="mailto:alex@mediavamp.co.uk"><img src="https://img.shields.io/badge/-MediaVamp-D14836?style=flat&logo=Email&logoColor=blue"/></a>
+<a href="https://instagram.com/stouty_alex"><img src="https://img.shields.io/badge/-@stouty_alex-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
