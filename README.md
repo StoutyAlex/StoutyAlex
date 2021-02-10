@@ -16,9 +16,13 @@ I also work as a Director for MediaVamp where I am leading development on a ment
 
 ### 💻 &nbsp;Experience
 I joined the BBC right out of University as a Graduate Software Engineer. Across the two year scheme I was a part of 4 different teams working on various different projects and BBC Products.\
+
 I worked on a Live Streaming platform that gave me experience in React and NodeJS and what its like to be a Full Stack developer.\
+
 I then joined BBC Voice and worked on the Skippable News team who enabled users to skip news articles and brought india election coverage.\
+
 I then joined the BBC Live team to help Migrate systems from old physical servers to AWS and a number of front end components.\
+
 Finally I moved to the Short Form Video team that worked on bringing short form content to the audicences on the new Webcore Platform.
 
 ### 🛠 &nbsp;Tech Stack
