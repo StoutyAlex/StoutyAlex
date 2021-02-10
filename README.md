@@ -9,10 +9,13 @@
 ✉️ &nbsp;You can shoot me an email at alexstout009hotmail.com I'll try to respond as soon as I can.\
 🎮 &nbsp;In my free time, I Enjoy gaming, building Lego and random software projects.\
 
-### 🛠 &nbsp;Current Role
+### 💻 &nbsp;Current Role
 I am currently working on the BBC Live Team which is responsible for all BBC Live services on the BBC Website [see example here](https://www.bbc.co.uk/news/live/world-us-canada-56011959). Currently building new live experience on a new Web Platform using the latest React and Dev Tools availiable.
 
 I also work as a Director for MediaVamp where I am leading development on a mental health awareness app using react-native for app development and docker for backend services.
+
+### 💻 &nbsp;Experience
+I joined the BBC right out of University as a Graduate Software Engineer. Across the two year scheme I was a part of 4 different teams working on various different projects and BBC Products. I worked on a Live Streaming platform that gave me experience in React and NodeJS and what its like to be a Full Stack developer. I then joined BBC Voice and worked on the Skippable News team who enabled users to skip news articles and brought india election coverage. I then joined the BBC Live team to help Migrate systems from old physical servers to AWS and a number of front end components. Finally I moved to the Short Form Video team that worked on bringing short form content to the audicences on the new Webcore Platform,
 
 ### 🛠 &nbsp;Tech Stack
 
