@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alex Stout
 
 ### 👨🏻‍💻 &nbsp;About Me
 
