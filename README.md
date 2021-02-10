@@ -9,7 +9,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React-Native-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
