@@ -44,7 +44,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/alexander-stout-73b94b168/"><img src="https://img.shields.io/badge/-Alex%20Stout-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alexstout009@hotmail.com"><img src="https://img.shields.io/badge/-alexstout009@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:alex@mediavamp.co.uk"><img src="https://img.shields.io/badge/-MediaVamp-20A2D6?style=flat&logo=Gmail&logoColor=white"/></a>
