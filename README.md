@@ -9,6 +9,11 @@
 ✉️ &nbsp;You can shoot me an email at alexstout009hotmail.com I'll try to respond as soon as I can.\
 🎮 &nbsp;In my free time, I Enjoy gaming, building Lego and random software projects.\
 
+### 🛠 &nbsp;Current Role
+I am currently working on the BBC Live Team which is responsible for all BBC Live services on the BBC Website [see example here](https://www.bbc.co.uk/news/live/world-us-canada-56011959). Currently building new live experience on a new Web Platform using the latest React and Dev Tools availiable.
+
+I also work as a Director for MediaVamp where I am leading development on a mental health awareness app using react-native for app development and docker for backend services.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
