@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions to every day issues / for fun.\
+💻 &nbsp;I Currently work as a Full Stack Software Engineer for BBC Sport
+💻 &nbsp;I am also a Director of a [MediaVamp](www.mediavamp.co.uk).\
+🎓 &nbsp;I Graduated Lancaster University with a First in Software Engineering BSc.\
+✉️ &nbsp;You can shoot me an email at alexstout009hotmail.com I'll try to respond as soon as I can.\
+🎮 &nbs:p;In my free time, I Enjoy gaming and building Lego.\
+
 ### 🛠 &nbsp;Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -16,10 +25,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord%20Bot-05122A?style=flat&logo=discord)\
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)
 
 ### ⚙️ &nbsp;GitHub Analytics
