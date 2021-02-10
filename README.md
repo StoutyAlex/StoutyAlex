@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions to every day issues / for fun.\
-💻 &nbsp;I Currently work as a Full Stack Software Engineer for BBC Sport
+💻 &nbsp;I Currently work as a Full Stack Software Engineer for BBC Sport.\
 💻 &nbsp;I am also a Director of a [MediaVamp](www.mediavamp.co.uk).\
 🎓 &nbsp;I Graduated Lancaster University with a First in Software Engineering BSc.\
 ✉️ &nbsp;You can shoot me an email at alexstout009hotmail.com I'll try to respond as soon as I can.\
