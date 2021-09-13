@@ -10,8 +10,6 @@
 🎮 &nbsp;In my free time, I Enjoy gaming, building Lego and random software projects.\
 
 ### 💻 &nbsp;Current Role
-I am currently working on the BBC Live Team which is responsible for all BBC Live services on the BBC Website [see example here](https://www.bbc.co.uk/news/live/world-us-canada-56011959). Currently building new live experience on a new Web Platform using the latest React and Dev Tools availiable.
-
 I also work as a Director for MediaVamp where I am leading development on a mental health awareness app using react-native for app development and docker for backend services.
 
 ### 💻 &nbsp;Experience
@@ -24,6 +22,8 @@ I then joined BBC Voice and worked on the Skippable News team who enabled users 
 I then joined the BBC Live team to help Migrate systems from old physical servers to AWS and a number of front end components.
 
 Finally I moved to the Short Form Video team that worked on bringing short form content to the audicences on the new Webcore Platform.
+
+I finally joined the Live Team which is responsible for all BBC Live services on the BBC Website [see example here](https://www.bbc.co.uk/news/live/world-us-canada-56011959). Currently building new live experience on a new Web Platform using the latest React and Dev Tools availiable.
 
 ### 🛠 &nbsp;Tech Stack
 
