@@ -3,14 +3,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions to every day issues / for fun.\
-💻 &nbsp;I Currently work as a Full Stack Software Engineer for [BBC Sport](https://bbc.co.uk/sport).\
+💻 &nbsp;I Currently work as a Software Engineer for [Cinch](https://www.cinch.co.uk/).\
 💻 &nbsp;I am also a Director of [MediaVamp](https://mediavamp.co.uk/).\
 🎓 &nbsp;I Graduated Lancaster University with a First in Software Engineering BSc.\
 ✉️ &nbsp;You can shoot me an email at alexstout009hotmail.com I'll try to respond as soon as I can.\
 🎮 &nbsp;In my free time, I Enjoy gaming, building Lego and random software projects.\
 
 ### 💻 &nbsp;Current Role
-I also work as a Director for MediaVamp where I am leading development on a mental health awareness app using react-native for app development and docker for backend services.
+I currently work as a Software Engineer at Cinch working in a backend focused role helping partners sell cars on the platform. Using latest AWS and Serverless technologies, also working towards AWS Certification.
 
 ### 💻 &nbsp;Experience
 I joined the BBC right out of University as a Graduate Software Engineer. Across the two year scheme I was a part of 4 different teams working on various different projects and BBC Products.
@@ -24,6 +24,8 @@ I then joined the BBC Live team to help Migrate systems from old physical server
 Finally I moved to the Short Form Video team that worked on bringing short form content to the audicences on the new Webcore Platform.
 
 I finally joined the Live Team which is responsible for all BBC Live services on the BBC Website [see example here](https://www.bbc.co.uk/news/live/world-us-canada-56011959). Currently building new live experience on a new Web Platform using the latest React and Dev Tools availiable.
+
+I also work as a Director for MediaVamp where I am leading development on a mental health awareness app using react-native for app development and docker for backend services.
 
 ### 🛠 &nbsp;Tech Stack
 
